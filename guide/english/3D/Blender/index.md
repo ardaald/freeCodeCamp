@@ -15,3 +15,10 @@ Blender is free and open source software, released under the  *GNU General Publi
 * [Blender Official Website](https://www.blender.org)
 * [Blender Documentation](https://docs.blender.org/)
 * [The Blender Foundation](https://www.blender.org/foundation/)
+
+### For Free Blender Tutorials, here are some useful links:
+
+* [Official Blender Tutorials] (https://www.blender.org/support/tutorials/)
+* [Blender Guru] (https://ww.blenderguru.com)
+* [CGCookie.com] (https://cgcookie.com/flow/introduction-to-blender/)
+* [Blender 3D Noob To Pro] (https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro)
